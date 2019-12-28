@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  easy-cli:
+    github: themastercado/easy-cli
+    commit: 70a1b32dc60d5401967653617304c916f90bf477
+
